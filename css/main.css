@@ -13,3 +13,12 @@ body {
     line-height: 200px;
 }
 
+.last .col-2, .last .col-8, .last .col-6 {
+    background-color: lightcoral;
+    border: 1px solid white;
+    height: 190px;
+}
+
+.row .last {
+    margin: 4px;
+}
